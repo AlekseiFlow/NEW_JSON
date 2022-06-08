@@ -2,5 +2,6 @@
 "bug" : "number" 1,   
 "bug" : "number" 2,  
 "bug" : "number" 3,  
-"bug" : "number" 4,  
+"bug" : "number" 4, 
+"new bug" : "number" 5-7 
 }
